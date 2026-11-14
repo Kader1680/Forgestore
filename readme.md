@@ -4,6 +4,19 @@
   <img src="images/banner.jfif" alt="Forgstore - Distributed Object Storage Engine" width="100%">
 </p>
 
+# ForgeStore - System Design Overview
+
+<p align="center">
+  <img src="images/forgstore.png" alt="Forgstore - Distributed Object Storage Engine" width="100%">
+</p>
+
+
+# ForgeStore - Design Shemas Database
+
+<p align="center">
+  <img src="images/design database.png" alt="Forgstore - Distributed Object Storage Engine" width="100%">
+</p>
+
 # ForgeStore - System Requirements
 
 ## Functional Requirements
