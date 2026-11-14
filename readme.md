@@ -1,3 +1,9 @@
+# Forgstore - Distributed Object Storage Engine
+
+<p align="center">
+  <img src="images/banner.jfif" alt="Forgstore - Distributed Object Storage Engine" width="100%">
+</p>
+
 # ForgeStore - System Requirements
 
 ## Functional Requirements
